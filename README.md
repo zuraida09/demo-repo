@@ -1,3 +1,3 @@
 this is readme file ...
 
-some text modified for feature
+some text modified for feature edited
